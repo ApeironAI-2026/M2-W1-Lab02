@@ -1,0 +1,33 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (NEVER commit raw or processed data)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Models and outputs
+models/*.pkl
+models/*.csv
+reports/figures/*.png
+reports/statistics/*.txt
+reports/metrics.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
