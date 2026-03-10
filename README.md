@@ -1,4 +1,4 @@
-# LAB M2-W2: Pandas Manipulation, Visualization & Statistical Risk Thinking
+# LAB M2-W1-Lab02: Pandas Manipulation, Visualization & Statistical Risk Thinking
 
 Welcome to Module 2 wekk 1's Lab! In this scenario, you are acting as an **Audit Lead** for a Hospital Finance Board. 
 
